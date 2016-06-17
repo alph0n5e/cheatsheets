@@ -2,7 +2,7 @@
 _Useful reminders for a wide range of basic things: commands, syntax, snippets, initialization..._
 
 ## Table of Contents
-- __Git__
+- [__Git__](md-git/git.md)
 - __Database engines__
   - [MySQL](md-database/mysql.md)
   - [PostgreSQL](md-database/postgresql.md)
