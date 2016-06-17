@@ -7,7 +7,7 @@ _Useful reminders for a wide range of basic things: commands, syntax, snippets, 
   - [MySQL](#)
   - [PostgreSQL](#)
 - __Python__
-  - [Generic Python](#)
+  - [Generic Python](md-python/generic-python.md)
   - [File Manipulation](#)
   - [Django](#)
   - [Flask](#)
